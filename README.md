@@ -9,7 +9,7 @@ Tenho experiência na área administrativa e venho unindo esse conhecimento aos 
 
 ## O que estou aprendendo
 
-`Python` · `SQL` · `Power BI` · `Excel` · `Modelagem de Dados`
+`Python` · `SQL` · `Power BI` · `Excel` · `Modelagem de Dados` . `Matemática & Lógica`
 
 
 Atualmente estudo Python, SQL, Power BI, Excel e modelagem de dados, desenvolvendo projetos para aprender na prática.
